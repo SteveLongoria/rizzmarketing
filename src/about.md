@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is me.
+title: About RizzMarketing
 ---
 
-She/her. A software person. Singapore.
+Tips and trends in the digital marketing space.
