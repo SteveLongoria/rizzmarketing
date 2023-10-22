@@ -1,6 +1,7 @@
 ---
 title: Kotlin
 date: 2020-07-01
+excerpt: This is the blog post description for Kotlin post
 # published: false
 tags:
   - kotlin
