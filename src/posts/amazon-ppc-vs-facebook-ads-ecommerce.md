@@ -1,6 +1,6 @@
 ---
 title: Amazon PPC vs Facebook Ads, Which is the Best Choice for Your Business?
-date: 2023-11-3
+date: 2023-11-03
 excerpt: Are you currently weighing the options between Amazon PPC and Facebook Ads? Having trouble deciding which one is the best fit for your business? Worry not, because in this document, we will provide an in-depth analysis of these two advertising platforms and assist you in making an informed choice.
 tags:
   - Facebook Ads
