@@ -1,35 +1,25 @@
 ---
 title: 5 Marketing Podcasts You Need to be Listening to
 date: 2023-11-05
-excerpt: Being a digital marketer in this day and age is no easy feat. With so many strategies, trends, and tools to keep up with, it can often feel overwhelming. But fear not, my fellow marketers! I have some good news for you. There are some amazing marketing podcasts out there that can help you stay up to date with the ever-evolving world of digital marketing. In this blog, I will introduce you to five marketing podcasts that are a must-listen for any marketer looking to up their game.
+excerpt: Hey there, fellow marketers! Let's talk about podcasts -- the secret sauce for staying ahead in the ever-evolving world of marketing. If you're eager to level up your marketing game, here are five top-notch podcasts that are an absolute must-listen.
 tags:
   - Marketing Podcasts
 ---
 
-Being a digital marketer in this day and age is no easy feat. With so many strategies, trends, and tools to keep up with, it can often feel overwhelming. But fear not, my fellow marketers! I have some good news for you. There are some amazing marketing podcasts out there that can help you stay up to date with the ever-evolving world of digital marketing. In this blog, I will introduce you to five marketing podcasts that are a must-listen for any marketer looking to up their game.
+Hey there, fellow marketers! Let's talk about podcasts -- the secret sauce for staying ahead in the ever-evolving world of marketing. If you're eager to level up your marketing game, here are five top-notch podcasts that are an absolute must-listen.
 
 <!-- excerpt -->
 
-So grab your headphones and get ready to level up your marketing skills!
+1.  The Marketing Book Podcast: Douglas Burdett hosts this gem, perfect for those who want to stay in the loop with the latest marketing books but don't have time to read every single one. With over 430 episodes, it's a goldmine of insights straight from the authors, making it a great listen for busy bees.
 
-## The Marketing Book Podcast
+2.  Marketing Over Coffee: Imagine sipping your favorite brew while getting the lowdown on marketing and tech from hosts Christopher S. Penn and John J. Wall. Their casual tone and expert guests make it feel like you're chatting with friends about the latest in marketing -- a fun and informative way to start your day.
 
-The Marketing Book Podcast is a must-listen for all you marketers out there who want to stay up to date with the latest marketing literature but simply don't have the time to read every single book that comes out. Hosted by the lovely Douglas Burdett, this podcast invites authors to discuss their latest marketing or sales book releases. Now, I know what you're thinking, "Oh great, just what I need, another podcast that talks about books I'll never read." But fear not, my friend! Burdett does an excellent job of giving you just enough information about each book without deterring you from picking up a copy, should you choose to. And with over 430 episodes, this podcast has a library of knowledge waiting for you to dive into. So, grab your coffee and get ready to level up your marketing game!
+3.  The Digital Marketing Podcast: Dive deeper into marketing trends and tools with hosts Daniel Rowles and Ciaran Rogers. Their chatty style and expert interviews bring a refreshing take on marketing, all neatly packed into episodes perfect for a quick listen during a coffee break.
 
-## Marketing Over Coffee
+4.  Happy Market Research: Short on time but hungry for market research insights? Jamin Brazil's podcast is your jam. He interviews experts in quick episodes that dish out practical takeaways, ensuring you're up-to-date with the latest industry trends.
 
-Marketing Over Coffee is a podcast hosted by Christopher S. Penn and John J. Wall that covers the latest in marketing and technology news. With a duration of 20-30 minutes and a weekly frequency, this podcast is perfect for people interested in the intersection of marketing and technology. One of the standout features of Marketing Over Coffee is its ability to bring in guests to discuss specialized topics. Whether it's how to create a virtual event or how to time content, Penn and Wall ask the right questions that can help guide your marketing strategy. Imagine getting expert advice on these subjects while sipping your morning coffee. It's like having your own personal marketing consultant without the hefty price tag. The hosts maintain a casual tone throughout the podcast, making it feel like you're just chatting with friends about the latest happenings in the marketing world. They don't take themselves too seriously, which makes the episodes engaging and enjoyable to listen to. So, if you want to stay up-to-date with the latest marketing and technology news while having a good laugh, Marketing Over Coffee is the podcast for you. Grab your cup of joe and tune in!
+5.  Perpetual Traffic: Kasim Aslam and Ralph Burns are here to rescue you from the endless maze of paid traffic. They serve up expert advice and insights, with guest interviews giving you the lowdown on the latest paid media strategies. Say goodbye to wasted ad spend!
 
-## The Digital Marketing Podcast
+These podcasts are like having your marketing mentor on speed dial -- they break down complex ideas into bite-sized, fun conversations that make learning about marketing a blast.
 
-The Digital Marketing Podcast is a gem for seasoned marketers who crave deeper conversations about current trends and tools. Hosts Daniel Rowles and Ciaran Rogers contextualize the latest marketing news and strategy trends with their own perspectives and expert interviews. They bring a casual tone to the table, allowing their opinions to shine through. But don't worry, they always steer the conversation back to the topic at hand, whether it's giving advice about content writing and audience insight tools or delving into subjective conversations about social media toxicity and company culture. With episodes lasting between 20 to 30 minutes and a frequency of approximately weekly, this podcast is a pocket-sized powerhouse of information and entertainment. So, buckle up and get ready to dive into the world of digital marketing with a twist. Trust me, you won't regret it.
-
-## Happy Market Research
-
-Happy Market Research is a podcast that covers market research from all angles. Hosted by Jamin Brazil, this podcast features insightful interviews with experts in the field, offering a wealth of knowledge and tips for market research analysts. In each episode, Jamin Brazil dives deep into translating insights into effective strategies, ensuring that listeners walk away with practical takeaways. The discussions are engaging and informative, providing a unique perspective on the world of market research. With a duration of 10-30 minutes, this podcast is perfect for those who are short on time but still want to stay up to date with the latest trends and insights in market research. Released weekly, it offers a regular dose of valuable information and inspiration for professionals in the industry. So, if you're interested in hearing from experts in market research and gaining new perspectives, Happy Market Research is the podcast for you! Now, grab your headphones, sit back, and let Jamin Brazil guide you through the exciting world of market research. Happy listening!
-
-## Perpetual Traffic
-
-Ah, the never-ending traffic struggle. If you're tired of feeling like a hamster on a wheel, spinning endlessly to generate leads and sales, this podcast is here to help. Kasim Aslam and Ralph Burns, the dynamic duo of Perpetual Traffic, are here to guide you through the treacherous world of paid traffic. Twice a week, these marketing mavens share their expertise on effective strategies for generating leads and sales through platforms like Google AdWords, Facebook, Twitter, and more. They don't just rely on their own experience, though.
-
-They bring in other industry experts through frequent guest interviews to provide a well-rounded perspective on the latest trends and news in paid media. So, if you're ready to say goodbye to wasted ad spend and hello to targeted traffic that actually converts, buckle up and tune in to Perpetual Traffic. Trust me, your marketing budget will thank you. Stay tuned for the next section, where we reveal another must-listen marketing podcast that will take your skills to the next level. Exciting, right?
+Whether you're a marketing veteran or just starting out, these podcasts dish out a goldmine of knowledge, serving up practical advice and enjoyable content that will have you eagerly waiting for the next episode. So, grab your earbuds, hit play, and get ready to rock your marketing game with these awesome podcasts!
