@@ -6,9 +6,11 @@ tags:
   - Marketing Podcasts
 ---
 
-Being a digital marketer in this day and age is no easy feat. With so many strategies, trends, and tools to keep up with, it can often feel overwhelming. But fear not, my fellow marketers! I have some good news for you. There are some amazing marketing podcasts out there that can help you stay up to date with the ever-evolving world of digital marketing. In this blog, I will introduce you to five marketing podcasts that are a must-listen for any marketer looking to up their game. So grab your headphones and get ready to level up your marketing skills!
+Being a digital marketer in this day and age is no easy feat. With so many strategies, trends, and tools to keep up with, it can often feel overwhelming. But fear not, my fellow marketers! I have some good news for you. There are some amazing marketing podcasts out there that can help you stay up to date with the ever-evolving world of digital marketing. In this blog, I will introduce you to five marketing podcasts that are a must-listen for any marketer looking to up their game.
 
-<!-- exerpt -->
+<!-- excerpt -->
+
+So grab your headphones and get ready to level up your marketing skills!
 
 ## The Marketing Book Podcast
 
